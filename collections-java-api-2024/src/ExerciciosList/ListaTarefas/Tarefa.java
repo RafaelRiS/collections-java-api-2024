@@ -1,4 +1,4 @@
-package ExemplosList.ListaTarefas;
+package ExerciciosList.ListaTarefas;
 
 public class Tarefa {
 

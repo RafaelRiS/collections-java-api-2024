@@ -1,4 +1,4 @@
-package ExemplosList.ListaTarefas;
+package ExerciciosList.ListaTarefas;
 
 import java.util.ArrayList;
 import java.util.List;

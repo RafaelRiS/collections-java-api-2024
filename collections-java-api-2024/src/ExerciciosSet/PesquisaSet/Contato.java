@@ -1,4 +1,4 @@
-package ExemploSet.PesquisaSet;
+package ExerciciosSet.PesquisaSet;
 
 import java.util.Objects;
 

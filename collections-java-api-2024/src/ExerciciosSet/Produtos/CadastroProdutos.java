@@ -1,4 +1,4 @@
-package ExemploSet.Produtos;
+package ExerciciosSet.Produtos;
 
 import java.util.HashSet;
 import java.util.Set;

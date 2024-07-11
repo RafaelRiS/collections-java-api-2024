@@ -1,4 +1,4 @@
-package ExemploSet.Convidados;
+package ExerciciosSet.Convidados;
 
 import java.util.HashSet;
 import java.util.Set;

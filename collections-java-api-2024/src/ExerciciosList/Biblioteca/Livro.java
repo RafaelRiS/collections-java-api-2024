@@ -1,4 +1,4 @@
-package ExemplosList.Biblioteca;
+package ExerciciosList.Biblioteca;
 
 public class Livro {
     //atributos
